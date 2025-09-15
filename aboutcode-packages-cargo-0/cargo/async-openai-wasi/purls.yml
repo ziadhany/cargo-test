@@ -1,0 +1,5 @@
+- pkg:cargo/async-openai-wasi@0.0.1
+- pkg:cargo/async-openai-wasi@0.0.2
+- pkg:cargo/async-openai-wasi@0.16.2
+- pkg:cargo/async-openai-wasi@0.16.3
+- pkg:cargo/async-openai-wasi@0.16.4

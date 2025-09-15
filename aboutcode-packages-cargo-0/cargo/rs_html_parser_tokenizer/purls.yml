@@ -1,0 +1,4 @@
+- pkg:cargo/rs_html_parser_tokenizer@0.0.5
+- pkg:cargo/rs_html_parser_tokenizer@0.0.6
+- pkg:cargo/rs_html_parser_tokenizer@0.0.9
+- pkg:cargo/rs_html_parser_tokenizer@0.0.10

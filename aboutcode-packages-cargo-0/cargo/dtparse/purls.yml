@@ -1,0 +1,15 @@
+- pkg:cargo/dtparse@0.7.0
+- pkg:cargo/dtparse@0.8.0
+- pkg:cargo/dtparse@0.9.0
+- pkg:cargo/dtparse@0.9.1
+- pkg:cargo/dtparse@1.0.0
+- pkg:cargo/dtparse@1.0.1
+- pkg:cargo/dtparse@1.0.2
+- pkg:cargo/dtparse@1.0.3
+- pkg:cargo/dtparse@1.1.0
+- pkg:cargo/dtparse@1.2.0
+- pkg:cargo/dtparse@1.3.0
+- pkg:cargo/dtparse@1.4.0
+- pkg:cargo/dtparse@1.5.0
+- pkg:cargo/dtparse@2.0.0
+- pkg:cargo/dtparse@2.0.1

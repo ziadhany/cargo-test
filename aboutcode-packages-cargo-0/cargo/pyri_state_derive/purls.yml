@@ -1,0 +1,6 @@
+- pkg:cargo/pyri_state_derive@0.1.0
+- pkg:cargo/pyri_state_derive@0.2.0-rc.0
+- pkg:cargo/pyri_state_derive@0.2.0
+- pkg:cargo/pyri_state_derive@0.3.0
+- pkg:cargo/pyri_state_derive@0.4.0
+- pkg:cargo/pyri_state_derive@0.4.1

@@ -1,0 +1,3 @@
+- pkg:cargo/dbmigrator@0.4.0
+- pkg:cargo/dbmigrator@0.4.1
+- pkg:cargo/dbmigrator@0.4.4-alpha

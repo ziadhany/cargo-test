@@ -1,0 +1,2 @@
+- pkg:cargo/wasm-gc-capi@0.0.0
+- pkg:cargo/wasm-gc-capi@0.1.0

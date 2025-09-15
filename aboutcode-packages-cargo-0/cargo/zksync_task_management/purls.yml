@@ -1,0 +1,16 @@
+- pkg:cargo/zksync_task_management@26.7.0-non-semver-compat
+- pkg:cargo/zksync_task_management@27.0.0-non-semver-compat
+- pkg:cargo/zksync_task_management@27.5.0-non-semver-compat
+- pkg:cargo/zksync_task_management@27.5.1-non-semver-compat
+- pkg:cargo/zksync_task_management@28.0.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.1.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.6.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.7.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.8.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.9.0-non-semver-compat
+- pkg:cargo/zksync_task_management@28.10.0-non-semver-compat
+- pkg:cargo/zksync_task_management@29.0.0-non-semver-compat
+- pkg:cargo/zksync_task_management@29.1.0-non-semver-compat
+- pkg:cargo/zksync_task_management@29.1.1-non-semver-compat
+- pkg:cargo/zksync_task_management@29.1.2-non-semver-compat
+- pkg:cargo/zksync_task_management@29.2.0-non-semver-compat

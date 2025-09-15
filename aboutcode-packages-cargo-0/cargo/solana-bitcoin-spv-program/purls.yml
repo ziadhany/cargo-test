@@ -1,0 +1,6 @@
+- pkg:cargo/solana-bitcoin-spv-program@0.19.1
+- pkg:cargo/solana-bitcoin-spv-program@0.20.1
+- pkg:cargo/solana-bitcoin-spv-program@0.20.2
+- pkg:cargo/solana-bitcoin-spv-program@0.20.3
+- pkg:cargo/solana-bitcoin-spv-program@0.20.4
+- pkg:cargo/solana-bitcoin-spv-program@0.20.5

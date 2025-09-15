@@ -1,0 +1,10 @@
+- pkg:cargo/google-firestore1-cli@1.0.8%2B20181002
+- pkg:cargo/google-firestore1-cli@1.0.9%2B20190419
+- pkg:cargo/google-firestore1-cli@1.0.10%2B20190419
+- pkg:cargo/google-firestore1-cli@1.0.12%2B20190419
+- pkg:cargo/google-firestore1-cli@1.0.14%2B20200522
+- pkg:cargo/google-firestore1-cli@2.0.0%2B20210317
+- pkg:cargo/google-firestore1-cli@2.0.3%2B20210317
+- pkg:cargo/google-firestore1-cli@2.0.4%2B20210317
+- pkg:cargo/google-firestore1-cli@3.0.0%2B20220221
+- pkg:cargo/google-firestore1-cli@3.1.0%2B20220221

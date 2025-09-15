@@ -1,0 +1,15 @@
+- pkg:cargo/redis-protocol@0.1.0
+- pkg:cargo/redis-protocol@0.1.1
+- pkg:cargo/redis-protocol@0.1.2
+- pkg:cargo/redis-protocol@1.0.0
+- pkg:cargo/redis-protocol@2.0.0
+- pkg:cargo/redis-protocol@3.0.0
+- pkg:cargo/redis-protocol@3.0.1
+- pkg:cargo/redis-protocol@3.0.2
+- pkg:cargo/redis-protocol@3.1.0
+- pkg:cargo/redis-protocol@4.0.0
+- pkg:cargo/redis-protocol@4.0.1
+- pkg:cargo/redis-protocol@4.1.0
+- pkg:cargo/redis-protocol@5.0.0
+- pkg:cargo/redis-protocol@5.0.1
+- pkg:cargo/redis-protocol@6.0.0
