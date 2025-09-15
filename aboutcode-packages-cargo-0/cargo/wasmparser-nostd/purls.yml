@@ -1,0 +1,9 @@
+- pkg:cargo/wasmparser-nostd@0.82.0
+- pkg:cargo/wasmparser-nostd@0.83.0
+- pkg:cargo/wasmparser-nostd@0.87.0
+- pkg:cargo/wasmparser-nostd@0.90.0
+- pkg:cargo/wasmparser-nostd@0.91.0
+- pkg:cargo/wasmparser-nostd@0.99.0
+- pkg:cargo/wasmparser-nostd@0.100.0
+- pkg:cargo/wasmparser-nostd@0.100.1
+- pkg:cargo/wasmparser-nostd@0.100.2

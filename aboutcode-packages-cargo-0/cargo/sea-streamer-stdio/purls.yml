@@ -1,0 +1,4 @@
+- pkg:cargo/sea-streamer-stdio@0.1.0
+- pkg:cargo/sea-streamer-stdio@0.2.0
+- pkg:cargo/sea-streamer-stdio@0.3.0
+- pkg:cargo/sea-streamer-stdio@0.5.0

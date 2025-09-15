@@ -1,0 +1,4 @@
+- pkg:cargo/talloc@1.0.0
+- pkg:cargo/talloc@1.0.1
+- pkg:cargo/talloc@2.0.0
+- pkg:cargo/talloc@2.0.1

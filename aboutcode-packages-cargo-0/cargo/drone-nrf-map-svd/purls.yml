@@ -1,0 +1,4 @@
+- pkg:cargo/drone-nrf-map-svd@0.11.0
+- pkg:cargo/drone-nrf-map-svd@0.12.0
+- pkg:cargo/drone-nrf-map-svd@0.13.0
+- pkg:cargo/drone-nrf-map-svd@0.14.0

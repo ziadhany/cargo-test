@@ -1,0 +1,2 @@
+- pkg:cargo/stable-alloc-shim@0.57.0
+- pkg:cargo/stable-alloc-shim@0.64.0

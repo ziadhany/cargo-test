@@ -1,0 +1,8 @@
+- pkg:cargo/multiversion-macros@0.1.0
+- pkg:cargo/multiversion-macros@0.6.1
+- pkg:cargo/multiversion-macros@0.7.0
+- pkg:cargo/multiversion-macros@0.7.1
+- pkg:cargo/multiversion-macros@0.7.2
+- pkg:cargo/multiversion-macros@0.7.3
+- pkg:cargo/multiversion-macros@0.7.4
+- pkg:cargo/multiversion-macros@0.8.0
