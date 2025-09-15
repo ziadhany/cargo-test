@@ -1,0 +1,10 @@
+- pkg:cargo/infer_schema_macros@0.99.0
+- pkg:cargo/infer_schema_macros@1.0.0-beta1
+- pkg:cargo/infer_schema_macros@1.0.0-rc1
+- pkg:cargo/infer_schema_macros@1.0.0
+- pkg:cargo/infer_schema_macros@1.1.0
+- pkg:cargo/infer_schema_macros@1.0.1
+- pkg:cargo/infer_schema_macros@1.1.2
+- pkg:cargo/infer_schema_macros@1.2.0
+- pkg:cargo/infer_schema_macros@1.3.0
+- pkg:cargo/infer_schema_macros@1.4.0

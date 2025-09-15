@@ -1,0 +1,6 @@
+- pkg:cargo/minbft@0.1.0
+- pkg:cargo/minbft@0.0.0-reserved
+- pkg:cargo/minbft@0.10.0
+- pkg:cargo/minbft@1.0.0
+- pkg:cargo/minbft@1.0.2
+- pkg:cargo/minbft@1.0.3

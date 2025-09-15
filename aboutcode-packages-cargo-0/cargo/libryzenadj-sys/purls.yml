@@ -1,0 +1,5 @@
+- pkg:cargo/libryzenadj-sys@0.11.1
+- pkg:cargo/libryzenadj-sys@0.11.2
+- pkg:cargo/libryzenadj-sys@0.12.0
+- pkg:cargo/libryzenadj-sys@0.13.0
+- pkg:cargo/libryzenadj-sys@0.15.0

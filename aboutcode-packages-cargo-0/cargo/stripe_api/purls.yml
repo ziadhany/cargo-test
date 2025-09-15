@@ -1,0 +1,3 @@
+- pkg:cargo/stripe_api@0.5.7
+- pkg:cargo/stripe_api@0.5.8
+- pkg:cargo/stripe_api@0.5.9

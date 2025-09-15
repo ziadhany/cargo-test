@@ -1,0 +1,8 @@
+- pkg:cargo/risc0-zeroio-derive@1.0.0-rc.1
+- pkg:cargo/risc0-zeroio-derive@1.0.0-rc.2
+- pkg:cargo/risc0-zeroio-derive@0.12.0-rc.1
+- pkg:cargo/risc0-zeroio-derive@0.12.0-rc.2
+- pkg:cargo/risc0-zeroio-derive@0.12.0
+- pkg:cargo/risc0-zeroio-derive@0.13.0
+- pkg:cargo/risc0-zeroio-derive@0.14.0-rc.1
+- pkg:cargo/risc0-zeroio-derive@0.14.0

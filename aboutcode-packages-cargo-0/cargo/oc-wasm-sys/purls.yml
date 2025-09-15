@@ -1,0 +1,5 @@
+- pkg:cargo/oc-wasm-sys@0.1.0
+- pkg:cargo/oc-wasm-sys@0.2.0
+- pkg:cargo/oc-wasm-sys@0.2.1
+- pkg:cargo/oc-wasm-sys@0.12.0
+- pkg:cargo/oc-wasm-sys@0.12.1

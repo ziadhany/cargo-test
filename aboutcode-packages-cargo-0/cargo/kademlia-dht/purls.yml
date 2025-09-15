@@ -1,0 +1,5 @@
+- pkg:cargo/kademlia-dht@0.1.0
+- pkg:cargo/kademlia-dht@0.2.0
+- pkg:cargo/kademlia-dht@1.0.0
+- pkg:cargo/kademlia-dht@1.1.0
+- pkg:cargo/kademlia-dht@1.2.0
