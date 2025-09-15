@@ -1,0 +1,5 @@
+- pkg:cargo/libmwemu@0.19.4
+- pkg:cargo/libmwemu@0.19.5
+- pkg:cargo/libmwemu@0.21.0
+- pkg:cargo/libmwemu@0.22.0
+- pkg:cargo/libmwemu@0.22.1

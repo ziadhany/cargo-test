@@ -1,0 +1,13 @@
+- pkg:cargo/lindera-sqlite@0.38.1
+- pkg:cargo/lindera-sqlite@0.40.1
+- pkg:cargo/lindera-sqlite@0.40.2
+- pkg:cargo/lindera-sqlite@0.41.0
+- pkg:cargo/lindera-sqlite@0.42.2
+- pkg:cargo/lindera-sqlite@0.43.0
+- pkg:cargo/lindera-sqlite@0.43.1
+- pkg:cargo/lindera-sqlite@0.43.2
+- pkg:cargo/lindera-sqlite@0.44.0
+- pkg:cargo/lindera-sqlite@0.44.1
+- pkg:cargo/lindera-sqlite@0.45.0
+- pkg:cargo/lindera-sqlite@1.0.0
+- pkg:cargo/lindera-sqlite@1.0.1

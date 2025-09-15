@@ -1,0 +1,6 @@
+- pkg:cargo/raft-proto@0.1.0
+- pkg:cargo/raft-proto@0.4.0
+- pkg:cargo/raft-proto@0.4.1
+- pkg:cargo/raft-proto@0.6.0-alpha
+- pkg:cargo/raft-proto@0.6.0
+- pkg:cargo/raft-proto@0.7.0

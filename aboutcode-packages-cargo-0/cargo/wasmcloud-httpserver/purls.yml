@@ -1,0 +1,6 @@
+- pkg:cargo/wasmcloud-httpserver@0.11.0
+- pkg:cargo/wasmcloud-httpserver@0.11.1
+- pkg:cargo/wasmcloud-httpserver@0.12.0
+- pkg:cargo/wasmcloud-httpserver@0.12.1
+- pkg:cargo/wasmcloud-httpserver@0.12.2
+- pkg:cargo/wasmcloud-httpserver@0.12.3

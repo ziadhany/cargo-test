@@ -1,0 +1,2 @@
+- pkg:cargo/diesel_pg_tester@0.5.0
+- pkg:cargo/diesel_pg_tester@0.5.1

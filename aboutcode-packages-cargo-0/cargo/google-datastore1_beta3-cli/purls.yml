@@ -1,0 +1,13 @@
+- pkg:cargo/google-datastore1_beta3-cli@1.0.7%2B20171205
+- pkg:cargo/google-datastore1_beta3-cli@1.0.8%2B20181002
+- pkg:cargo/google-datastore1_beta3-cli@1.0.9%2B20190421
+- pkg:cargo/google-datastore1_beta3-cli@1.0.10%2B20190421
+- pkg:cargo/google-datastore1_beta3-cli@1.0.12%2B20190421
+- pkg:cargo/google-datastore1_beta3-cli@1.0.13%2B20200311
+- pkg:cargo/google-datastore1_beta3-cli@1.0.14%2B20200524
+- pkg:cargo/google-datastore1_beta3-cli@2.0.0%2B20210317
+- pkg:cargo/google-datastore1_beta3-cli@2.0.4%2B20210317
+- pkg:cargo/google-datastore1_beta3-cli@3.0.0%2B20220221
+- pkg:cargo/google-datastore1_beta3-cli@3.1.0%2B20220221
+- pkg:cargo/google-datastore1_beta3-cli@5.0.4%2B20240226
+- pkg:cargo/google-datastore1_beta3-cli@6.0.0%2B20240617

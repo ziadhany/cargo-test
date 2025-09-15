@@ -1,0 +1,10 @@
+- pkg:cargo/datafusion-macros@44.0.0
+- pkg:cargo/datafusion-macros@45.0.0
+- pkg:cargo/datafusion-macros@46.0.0
+- pkg:cargo/datafusion-macros@46.0.1
+- pkg:cargo/datafusion-macros@47.0.0
+- pkg:cargo/datafusion-macros@48.0.0
+- pkg:cargo/datafusion-macros@48.0.1
+- pkg:cargo/datafusion-macros@49.0.0
+- pkg:cargo/datafusion-macros@49.0.1
+- pkg:cargo/datafusion-macros@49.0.2

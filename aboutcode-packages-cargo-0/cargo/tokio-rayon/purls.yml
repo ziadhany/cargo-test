@@ -1,0 +1,4 @@
+- pkg:cargo/tokio-rayon@0.1.0
+- pkg:cargo/tokio-rayon@1.0.0
+- pkg:cargo/tokio-rayon@2.0.0
+- pkg:cargo/tokio-rayon@2.1.0

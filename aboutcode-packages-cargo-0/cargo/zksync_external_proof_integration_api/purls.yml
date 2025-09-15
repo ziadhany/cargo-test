@@ -1,0 +1,12 @@
+- pkg:cargo/zksync_external_proof_integration_api@26.2.1-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@26.7.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@27.5.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@27.5.1-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@28.0.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@28.1.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@28.7.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@28.8.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@28.10.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@29.0.0-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@29.1.2-non-semver-compat
+- pkg:cargo/zksync_external_proof_integration_api@29.2.0-non-semver-compat

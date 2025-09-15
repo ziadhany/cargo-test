@@ -1,0 +1,5 @@
+- pkg:cargo/stellar-asset-spec@0.0.1
+- pkg:cargo/stellar-asset-spec@23.0.0-rc.3
+- pkg:cargo/stellar-asset-spec@23.0.0
+- pkg:cargo/stellar-asset-spec@23.0.1
+- pkg:cargo/stellar-asset-spec@23.0.2

@@ -1,0 +1,4 @@
+- pkg:cargo/redpanda-transform-sdk-varint@1.0.0
+- pkg:cargo/redpanda-transform-sdk-varint@1.0.1
+- pkg:cargo/redpanda-transform-sdk-varint@1.0.2
+- pkg:cargo/redpanda-transform-sdk-varint@1.1.0

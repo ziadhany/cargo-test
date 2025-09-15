@@ -1,0 +1,12 @@
+- pkg:cargo/lnpbp_chain@0.5.0-beta.1
+- pkg:cargo/lnpbp_chain@0.5.0-beta.2
+- pkg:cargo/lnpbp_chain@0.5.0-beta.3
+- pkg:cargo/lnpbp_chain@0.5.0
+- pkg:cargo/lnpbp_chain@0.5.1
+- pkg:cargo/lnpbp_chain@0.6.0-rc.1
+- pkg:cargo/lnpbp_chain@0.6.0
+- pkg:cargo/lnpbp_chain@0.7.0
+- pkg:cargo/lnpbp_chain@0.8.0
+- pkg:cargo/lnpbp_chain@0.9.0-alpha.1
+- pkg:cargo/lnpbp_chain@0.9.0-rc.1
+- pkg:cargo/lnpbp_chain@0.9.0
