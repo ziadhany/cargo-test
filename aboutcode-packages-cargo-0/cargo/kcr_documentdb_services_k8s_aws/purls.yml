@@ -1,0 +1,7 @@
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250406.75342
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250413.75336
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250420.75340
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250511.75344
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250525.75411
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250601.75405
+- pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250824.75405

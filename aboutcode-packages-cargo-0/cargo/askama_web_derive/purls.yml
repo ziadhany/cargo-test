@@ -1,0 +1,2 @@
+- pkg:cargo/askama_web_derive@0.0.1-pre.0
+- pkg:cargo/askama_web_derive@0.1.0

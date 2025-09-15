@@ -1,0 +1,2 @@
+- pkg:cargo/hc-wasmer-compiler-llvm@4.3.6-hc.0
+- pkg:cargo/hc-wasmer-compiler-llvm@4.3.6-hc.1

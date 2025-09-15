@@ -1,0 +1,7 @@
+- pkg:cargo/embassy-executor-macros@0.4.0
+- pkg:cargo/embassy-executor-macros@0.4.1
+- pkg:cargo/embassy-executor-macros@0.5.0
+- pkg:cargo/embassy-executor-macros@0.6.1
+- pkg:cargo/embassy-executor-macros@0.4.2
+- pkg:cargo/embassy-executor-macros@0.6.2
+- pkg:cargo/embassy-executor-macros@0.7.0

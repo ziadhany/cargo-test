@@ -1,0 +1,13 @@
+- pkg:cargo/qapi-qga@0.0.1
+- pkg:cargo/qapi-qga@0.2.0
+- pkg:cargo/qapi-qga@0.3.0
+- pkg:cargo/qapi-qga@0.4.0
+- pkg:cargo/qapi-qga@0.6.0
+- pkg:cargo/qapi-qga@0.7.0
+- pkg:cargo/qapi-qga@0.8.0
+- pkg:cargo/qapi-qga@0.9.0
+- pkg:cargo/qapi-qga@0.10.0
+- pkg:cargo/qapi-qga@0.10.1
+- pkg:cargo/qapi-qga@0.11.0
+- pkg:cargo/qapi-qga@0.12.0
+- pkg:cargo/qapi-qga@0.13.0

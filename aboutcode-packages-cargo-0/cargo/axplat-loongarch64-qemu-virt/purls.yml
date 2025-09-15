@@ -1,0 +1,2 @@
+- pkg:cargo/axplat-loongarch64-qemu-virt@0.1.0
+- pkg:cargo/axplat-loongarch64-qemu-virt@0.2.0

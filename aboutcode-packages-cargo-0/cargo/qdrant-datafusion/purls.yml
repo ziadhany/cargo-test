@@ -1,0 +1,2 @@
+- pkg:cargo/qdrant-datafusion@0.1.0
+- pkg:cargo/qdrant-datafusion@0.1.1
