@@ -1,0 +1,11 @@
+- pkg:cargo/kestrel-crypto@0.1.0
+- pkg:cargo/kestrel-crypto@0.9.0
+- pkg:cargo/kestrel-crypto@0.10.0
+- pkg:cargo/kestrel-crypto@0.10.1
+- pkg:cargo/kestrel-crypto@0.11.0
+- pkg:cargo/kestrel-crypto@1.0.0
+- pkg:cargo/kestrel-crypto@1.0.1
+- pkg:cargo/kestrel-crypto@2.0.0
+- pkg:cargo/kestrel-crypto@2.0.1
+- pkg:cargo/kestrel-crypto@2.0.2
+- pkg:cargo/kestrel-crypto@3.0.0

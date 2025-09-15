@@ -1,0 +1,4 @@
+- pkg:cargo/bevy_serialization_assemble@0.1.0
+- pkg:cargo/bevy_serialization_assemble@0.2.0-beta.0
+- pkg:cargo/bevy_serialization_assemble@0.2.0
+- pkg:cargo/bevy_serialization_assemble@0.3.0-beta.0

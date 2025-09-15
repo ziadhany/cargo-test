@@ -1,0 +1,6 @@
+- pkg:cargo/izihawa-tantivy-query-grammar@0.20.0
+- pkg:cargo/izihawa-tantivy-query-grammar@0.21.0
+- pkg:cargo/izihawa-tantivy-query-grammar@0.21.0-dev
+- pkg:cargo/izihawa-tantivy-query-grammar@0.21.1
+- pkg:cargo/izihawa-tantivy-query-grammar@0.22.0
+- pkg:cargo/izihawa-tantivy-query-grammar@0.25.0

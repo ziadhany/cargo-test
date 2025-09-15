@@ -1,0 +1,4 @@
+- pkg:cargo/musicbrainz_rs_nova@0.5.1
+- pkg:cargo/musicbrainz_rs_nova@0.6.0
+- pkg:cargo/musicbrainz_rs_nova@0.7.0
+- pkg:cargo/musicbrainz_rs_nova@0.8.0

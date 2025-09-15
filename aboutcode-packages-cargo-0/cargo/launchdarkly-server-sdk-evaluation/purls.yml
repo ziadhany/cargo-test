@@ -1,0 +1,11 @@
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0-beta.1
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0-beta.2
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0-beta.3
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0-beta.4
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0-beta.5
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.0.0
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.1.0
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.1.1
+- pkg:cargo/launchdarkly-server-sdk-evaluation@1.2.0
+- pkg:cargo/launchdarkly-server-sdk-evaluation@2.0.0
+- pkg:cargo/launchdarkly-server-sdk-evaluation@2.0.1

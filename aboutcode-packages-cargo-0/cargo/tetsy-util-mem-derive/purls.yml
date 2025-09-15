@@ -1,0 +1,4 @@
+- pkg:cargo/tetsy-util-mem-derive@0.1.0
+- pkg:cargo/tetsy-util-mem-derive@0.1.0-alpha
+- pkg:cargo/tetsy-util-mem-derive@0.1.0-beta
+- pkg:cargo/tetsy-util-mem-derive@0.1.1

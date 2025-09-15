@@ -1,0 +1,2 @@
+- pkg:cargo/susy-jsonrpc-tcp-server@10.1.0
+- pkg:cargo/susy-jsonrpc-tcp-server@10.0.1
