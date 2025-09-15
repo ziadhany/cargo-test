@@ -1,0 +1,14 @@
+- pkg:cargo/gladis_proc_macro@0.1.0
+- pkg:cargo/gladis_proc_macro@0.1.1
+- pkg:cargo/gladis_proc_macro@0.2.0
+- pkg:cargo/gladis_proc_macro@0.2.1
+- pkg:cargo/gladis_proc_macro@0.3.0
+- pkg:cargo/gladis_proc_macro@0.3.1
+- pkg:cargo/gladis_proc_macro@0.4.0
+- pkg:cargo/gladis_proc_macro@0.4.1
+- pkg:cargo/gladis_proc_macro@1.0.0
+- pkg:cargo/gladis_proc_macro@1.0.1
+- pkg:cargo/gladis_proc_macro@2.0.0
+- pkg:cargo/gladis_proc_macro@2.1.0
+- pkg:cargo/gladis_proc_macro@2.1.1
+- pkg:cargo/gladis_proc_macro@2.1.2

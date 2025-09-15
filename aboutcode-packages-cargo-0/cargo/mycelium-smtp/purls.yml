@@ -1,0 +1,6 @@
+- pkg:cargo/mycelium-smtp@4.15.3
+- pkg:cargo/mycelium-smtp@4.16.0
+- pkg:cargo/mycelium-smtp@5.0.0
+- pkg:cargo/mycelium-smtp@5.0.1
+- pkg:cargo/mycelium-smtp@5.0.2
+- pkg:cargo/mycelium-smtp@5.0.8

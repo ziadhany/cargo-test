@@ -1,0 +1,7 @@
+- pkg:cargo/solders-pubkey@0.16.0
+- pkg:cargo/solders-pubkey@0.17.0
+- pkg:cargo/solders-pubkey@0.18.0
+- pkg:cargo/solders-pubkey@0.18.1
+- pkg:cargo/solders-pubkey@0.19.0
+- pkg:cargo/solders-pubkey@0.20.0
+- pkg:cargo/solders-pubkey@0.21.0

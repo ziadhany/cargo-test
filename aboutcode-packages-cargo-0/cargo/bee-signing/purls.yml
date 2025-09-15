@@ -1,0 +1,4 @@
+- pkg:cargo/bee-signing@0.0.0
+- pkg:cargo/bee-signing@0.1.0-alpha
+- pkg:cargo/bee-signing@0.1.1-alpha
+- pkg:cargo/bee-signing@0.2.0

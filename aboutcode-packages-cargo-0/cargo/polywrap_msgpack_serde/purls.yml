@@ -1,0 +1,9 @@
+- pkg:cargo/polywrap_msgpack_serde@0.0.1
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.1
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.2
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.3
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.4
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.5
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.6
+- pkg:cargo/polywrap_msgpack_serde@0.0.2-beta.7
+- pkg:cargo/polywrap_msgpack_serde@0.0.2

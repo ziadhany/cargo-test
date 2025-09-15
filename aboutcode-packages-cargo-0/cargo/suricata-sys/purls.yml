@@ -1,0 +1,4 @@
+- pkg:cargo/suricata-sys@8.0.0-beta1
+- pkg:cargo/suricata-sys@8.0.0-rc1
+- pkg:cargo/suricata-sys@8.0.0-rc1.1
+- pkg:cargo/suricata-sys@8.0.0
