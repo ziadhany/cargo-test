@@ -1,0 +1,2 @@
+- pkg:cargo/stm32-hal@0.1.1-alpha.0
+- pkg:cargo/stm32-hal@0.2.0

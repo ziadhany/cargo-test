@@ -1,0 +1,15 @@
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.1.0
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.1.1
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.0
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.1-rc1
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.1-rc2
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.1
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.2-rc1
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.2
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.3-rc1
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.3-rc2
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.3
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.4
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.5
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.6
+- pkg:cargo/fix-hidden-lifetime-bug-proc_macros@0.2.7

@@ -1,0 +1,16 @@
+- pkg:cargo/dcrypt@0.9.0-beta.1
+- pkg:cargo/dcrypt@0.9.0-beta.2
+- pkg:cargo/dcrypt@0.9.0-beta.3
+- pkg:cargo/dcrypt@0.10.0-beta.1
+- pkg:cargo/dcrypt@0.11.0-beta.1
+- pkg:cargo/dcrypt@0.11.0-beta.2
+- pkg:cargo/dcrypt@0.12.0-beta.1
+- pkg:cargo/dcrypt@0.13.0-beta.1
+- pkg:cargo/dcrypt@0.13.0-beta.2
+- pkg:cargo/dcrypt@0.14.0-beta.1
+- pkg:cargo/dcrypt@0.14.0-beta.2
+- pkg:cargo/dcrypt@0.14.0-beta.3
+- pkg:cargo/dcrypt@0.14.0-beta.4
+- pkg:cargo/dcrypt@0.14.0-beta.5
+- pkg:cargo/dcrypt@0.14.0-beta.6
+- pkg:cargo/dcrypt@0.14.0-beta.7

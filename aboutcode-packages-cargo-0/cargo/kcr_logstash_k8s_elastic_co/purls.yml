@@ -1,0 +1,9 @@
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250412.132914
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250419.133048
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250503.133135
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250510.133148
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250524.133345
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250809.133727
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250816.133436
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250823.133157
+- pkg:cargo/kcr_logstash_k8s_elastic_co@1.20250906.132701

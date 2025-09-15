@@ -1,0 +1,4 @@
+- pkg:cargo/stronghold-derive@0.2.0
+- pkg:cargo/stronghold-derive@0.3.0
+- pkg:cargo/stronghold-derive@0.3.1
+- pkg:cargo/stronghold-derive@1.0.0

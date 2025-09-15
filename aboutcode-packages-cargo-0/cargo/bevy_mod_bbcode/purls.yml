@@ -1,0 +1,4 @@
+- pkg:cargo/bevy_mod_bbcode@0.1.0
+- pkg:cargo/bevy_mod_bbcode@0.2.0
+- pkg:cargo/bevy_mod_bbcode@0.3.0-rc.1
+- pkg:cargo/bevy_mod_bbcode@0.3.0

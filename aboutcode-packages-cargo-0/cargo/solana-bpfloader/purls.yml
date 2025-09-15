@@ -1,0 +1,11 @@
+- pkg:cargo/solana-bpfloader@0.10.0-pre2
+- pkg:cargo/solana-bpfloader@0.10.0
+- pkg:cargo/solana-bpfloader@0.10.1
+- pkg:cargo/solana-bpfloader@0.10.2
+- pkg:cargo/solana-bpfloader@0.10.3
+- pkg:cargo/solana-bpfloader@0.10.4
+- pkg:cargo/solana-bpfloader@0.11.0
+- pkg:cargo/solana-bpfloader@0.12.0
+- pkg:cargo/solana-bpfloader@0.15.0
+- pkg:cargo/solana-bpfloader@0.15.1
+- pkg:cargo/solana-bpfloader@0.15.3

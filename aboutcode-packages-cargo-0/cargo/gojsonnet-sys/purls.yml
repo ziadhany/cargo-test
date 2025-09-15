@@ -1,0 +1,5 @@
+- pkg:cargo/gojsonnet-sys@0.17.0
+- pkg:cargo/gojsonnet-sys@0.17.0%2Bp1
+- pkg:cargo/gojsonnet-sys@1.0.0-alpha.1%2B0.17.0-57e6137
+- pkg:cargo/gojsonnet-sys@1.0.0-alpha.2%2B0.17.0-57e6137
+- pkg:cargo/gojsonnet-sys@1.0.0-alpha.3%2B0.17.0-35acb29

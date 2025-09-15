@@ -1,0 +1,10 @@
+- pkg:cargo/tuit@0.0.0
+- pkg:cargo/tuit@0.0.1
+- pkg:cargo/tuit@0.1.0
+- pkg:cargo/tuit@0.1.1
+- pkg:cargo/tuit@0.2.0
+- pkg:cargo/tuit@0.2.1
+- pkg:cargo/tuit@0.2.2-shelves
+- pkg:cargo/tuit@0.3.0-a1%2Bcheckboxes
+- pkg:cargo/tuit@0.3.0-a2%2Bcheckboxes
+- pkg:cargo/tuit@0.3.1-a2%2Bcheckboxes

@@ -1,0 +1,3 @@
+- pkg:cargo/i2c-multiplexer@0.1.0
+- pkg:cargo/i2c-multiplexer@0.1.1
+- pkg:cargo/i2c-multiplexer@0.2.0

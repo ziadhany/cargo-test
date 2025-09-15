@@ -1,0 +1,10 @@
+- pkg:cargo/dokan-sys@1.3.1
+- pkg:cargo/dokan-sys@1.3.1%2Bdocfix
+- pkg:cargo/dokan-sys@0.1.0-alpha.1%2Bdokan131
+- pkg:cargo/dokan-sys@0.1.0-alpha.2%2Bdokan131
+- pkg:cargo/dokan-sys@0.1.0-alpha.3%2Bdokan131
+- pkg:cargo/dokan-sys@0.1.0%2Bdokan131
+- pkg:cargo/dokan-sys@0.1.2%2Bdokan141
+- pkg:cargo/dokan-sys@0.1.1%2Bdokan140
+- pkg:cargo/dokan-sys@0.2.0%2Bdokan150
+- pkg:cargo/dokan-sys@0.3.1%2Bdokan206

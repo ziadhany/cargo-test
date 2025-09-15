@@ -1,0 +1,16 @@
+- pkg:cargo/sqlx-sqlite@0.0.0
+- pkg:cargo/sqlx-sqlite@0.7.0-alpha.1
+- pkg:cargo/sqlx-sqlite@0.7.0-alpha.2
+- pkg:cargo/sqlx-sqlite@0.7.0-alpha.3
+- pkg:cargo/sqlx-sqlite@0.7.0
+- pkg:cargo/sqlx-sqlite@0.7.1
+- pkg:cargo/sqlx-sqlite@0.7.2
+- pkg:cargo/sqlx-sqlite@0.7.3
+- pkg:cargo/sqlx-sqlite@0.7.4
+- pkg:cargo/sqlx-sqlite@0.8.0
+- pkg:cargo/sqlx-sqlite@0.8.1
+- pkg:cargo/sqlx-sqlite@0.8.2
+- pkg:cargo/sqlx-sqlite@0.8.3
+- pkg:cargo/sqlx-sqlite@0.8.4
+- pkg:cargo/sqlx-sqlite@0.8.5
+- pkg:cargo/sqlx-sqlite@0.8.6

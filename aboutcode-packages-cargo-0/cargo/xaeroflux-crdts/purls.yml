@@ -1,0 +1,4 @@
+- pkg:cargo/xaeroflux-crdts@0.5.0-m4
+- pkg:cargo/xaeroflux-crdts@0.7.0-m5
+- pkg:cargo/xaeroflux-crdts@0.8.0-m5
+- pkg:cargo/xaeroflux-crdts@0.8.1-m5

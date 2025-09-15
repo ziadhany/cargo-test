@@ -1,0 +1,5 @@
+- pkg:cargo/deepmesa-encoding@0.9.0
+- pkg:cargo/deepmesa-encoding@0.9.1
+- pkg:cargo/deepmesa-encoding@0.10.0
+- pkg:cargo/deepmesa-encoding@0.11.0
+- pkg:cargo/deepmesa-encoding@0.12.0

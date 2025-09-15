@@ -1,0 +1,2 @@
+- pkg:cargo/rocket_csrf_guard@0.0.1
+- pkg:cargo/rocket_csrf_guard@0.0.2
