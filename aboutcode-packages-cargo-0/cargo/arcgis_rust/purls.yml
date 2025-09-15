@@ -1,0 +1,4 @@
+- pkg:cargo/arcgis_rust@0.1.0-alpha
+- pkg:cargo/arcgis_rust@0.1.1-alpha
+- pkg:cargo/arcgis_rust@0.1.2-alpha
+- pkg:cargo/arcgis_rust@0.1.2

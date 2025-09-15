@@ -1,0 +1,4 @@
+- pkg:cargo/llvm-mapper@0.0.2-rc.1
+- pkg:cargo/llvm-mapper@0.0.2-rc.4
+- pkg:cargo/llvm-mapper@0.0.2
+- pkg:cargo/llvm-mapper@0.0.4

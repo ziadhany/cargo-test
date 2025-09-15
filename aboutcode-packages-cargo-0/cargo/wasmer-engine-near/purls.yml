@@ -1,0 +1,15 @@
+- pkg:cargo/wasmer-engine-near@1.0.1
+- pkg:cargo/wasmer-engine-near@2.0.0
+- pkg:cargo/wasmer-engine-near@2.0.1
+- pkg:cargo/wasmer-engine-near@2.0.2
+- pkg:cargo/wasmer-engine-near@2.0.3
+- pkg:cargo/wasmer-engine-near@2.1.0
+- pkg:cargo/wasmer-engine-near@2.1.1
+- pkg:cargo/wasmer-engine-near@2.1.2
+- pkg:cargo/wasmer-engine-near@2.2.0
+- pkg:cargo/wasmer-engine-near@2.2.1
+- pkg:cargo/wasmer-engine-near@2.2.2
+- pkg:cargo/wasmer-engine-near@2.3.0
+- pkg:cargo/wasmer-engine-near@2.2.3
+- pkg:cargo/wasmer-engine-near@2.4.0
+- pkg:cargo/wasmer-engine-near@2.4.1

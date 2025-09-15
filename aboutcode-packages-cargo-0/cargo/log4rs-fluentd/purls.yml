@@ -1,0 +1,2 @@
+- pkg:cargo/log4rs-fluentd@0.1.0
+- pkg:cargo/log4rs-fluentd@0.2.0

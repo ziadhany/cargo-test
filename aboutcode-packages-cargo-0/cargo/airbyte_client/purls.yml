@@ -1,0 +1,5 @@
+- pkg:cargo/airbyte_client@0.0.1
+- pkg:cargo/airbyte_client@0.0.2
+- pkg:cargo/airbyte_client@0.40.23-1
+- pkg:cargo/airbyte_client@0.40.26-1
+- pkg:cargo/airbyte_client@0.41.0

@@ -1,0 +1,9 @@
+- pkg:cargo/notmuch-sys@4.3.0
+- pkg:cargo/notmuch-sys@4.3.1
+- pkg:cargo/notmuch-sys@4.3.2
+- pkg:cargo/notmuch-sys@4.3.3
+- pkg:cargo/notmuch-sys@4.3.4
+- pkg:cargo/notmuch-sys@4.3.5
+- pkg:cargo/notmuch-sys@4.4.0
+- pkg:cargo/notmuch-sys@4.4.1
+- pkg:cargo/notmuch-sys@4.4.2

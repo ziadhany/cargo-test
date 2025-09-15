@@ -1,0 +1,4 @@
+- pkg:cargo/nvgx-wgpu@0.1.0
+- pkg:cargo/nvgx-wgpu@0.2.0
+- pkg:cargo/nvgx-wgpu@0.2.4
+- pkg:cargo/nvgx-wgpu@0.3.0

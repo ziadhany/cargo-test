@@ -1,0 +1,3 @@
+- pkg:cargo/ledger-zcash-builder@0.11.0
+- pkg:cargo/ledger-zcash-builder@0.11.1
+- pkg:cargo/ledger-zcash-builder@0.11.2

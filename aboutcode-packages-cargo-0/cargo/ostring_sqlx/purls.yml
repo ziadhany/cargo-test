@@ -1,0 +1,5 @@
+- pkg:cargo/ostring_sqlx@1.0.0
+- pkg:cargo/ostring_sqlx@2.0.0
+- pkg:cargo/ostring_sqlx@2.0.1
+- pkg:cargo/ostring_sqlx@2.0.2
+- pkg:cargo/ostring_sqlx@2.0.3

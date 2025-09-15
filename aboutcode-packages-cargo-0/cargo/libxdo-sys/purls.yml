@@ -1,0 +1,5 @@
+- pkg:cargo/libxdo-sys@0.0.1
+- pkg:cargo/libxdo-sys@0.1.0
+- pkg:cargo/libxdo-sys@0.9.0
+- pkg:cargo/libxdo-sys@0.10.0
+- pkg:cargo/libxdo-sys@0.11.0

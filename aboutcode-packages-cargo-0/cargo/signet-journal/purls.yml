@@ -1,0 +1,3 @@
+- pkg:cargo/signet-journal@0.0.1-alpha
+- pkg:cargo/signet-journal@0.10.0
+- pkg:cargo/signet-journal@0.10.1

@@ -1,0 +1,7 @@
+- pkg:cargo/cargo-criterion@0.0.1
+- pkg:cargo/cargo-criterion@1.0.0-alpha1
+- pkg:cargo/cargo-criterion@1.0.0-alpha2
+- pkg:cargo/cargo-criterion@1.0.0-alpha3
+- pkg:cargo/cargo-criterion@1.0.0
+- pkg:cargo/cargo-criterion@1.0.1
+- pkg:cargo/cargo-criterion@1.1.0

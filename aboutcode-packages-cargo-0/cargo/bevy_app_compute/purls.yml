@@ -1,0 +1,5 @@
+- pkg:cargo/bevy_app_compute@0.10.0
+- pkg:cargo/bevy_app_compute@0.10.1
+- pkg:cargo/bevy_app_compute@0.10.2
+- pkg:cargo/bevy_app_compute@0.10.3
+- pkg:cargo/bevy_app_compute@0.16.0

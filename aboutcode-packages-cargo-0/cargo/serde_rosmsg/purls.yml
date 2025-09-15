@@ -1,0 +1,2 @@
+- pkg:cargo/serde_rosmsg@0.1.0
+- pkg:cargo/serde_rosmsg@0.2.0
