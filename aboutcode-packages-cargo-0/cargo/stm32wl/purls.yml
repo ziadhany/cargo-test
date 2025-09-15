@@ -1,0 +1,6 @@
+- pkg:cargo/stm32wl@0.12.1
+- pkg:cargo/stm32wl@0.13.0
+- pkg:cargo/stm32wl@0.14.0
+- pkg:cargo/stm32wl@0.15.0
+- pkg:cargo/stm32wl@0.15.1
+- pkg:cargo/stm32wl@0.16.0

@@ -1,0 +1,3 @@
+- pkg:cargo/publish-action-p@0.2.3
+- pkg:cargo/publish-action-p@0.2.4
+- pkg:cargo/publish-action-p@0.2.5

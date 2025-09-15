@@ -1,0 +1,8 @@
+- pkg:cargo/nng-c@1.8.0-beta.1
+- pkg:cargo/nng-c@1.8.0-beta.2
+- pkg:cargo/nng-c@1.8.0-beta.3
+- pkg:cargo/nng-c@1.9.0-beta.1
+- pkg:cargo/nng-c@1.9.0
+- pkg:cargo/nng-c@1.9.1
+- pkg:cargo/nng-c@1.10.0
+- pkg:cargo/nng-c@1.10.1

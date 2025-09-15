@@ -1,0 +1,13 @@
+- pkg:cargo/google-artifactregistry1@2.0.0%2B20210324
+- pkg:cargo/google-artifactregistry1@2.0.3%2B20210324
+- pkg:cargo/google-artifactregistry1@2.0.4%2B20210324
+- pkg:cargo/google-artifactregistry1@2.0.8%2B20210324
+- pkg:cargo/google-artifactregistry1@3.0.0%2B20220225
+- pkg:cargo/google-artifactregistry1@3.1.0%2B20220225
+- pkg:cargo/google-artifactregistry1@4.0.1%2B20220225
+- pkg:cargo/google-artifactregistry1@5.0.2-beta-1%2B20230113
+- pkg:cargo/google-artifactregistry1@5.0.2%2B20230113
+- pkg:cargo/google-artifactregistry1@5.0.3%2B20230113
+- pkg:cargo/google-artifactregistry1@5.0.4%2B20240213
+- pkg:cargo/google-artifactregistry1@5.0.5%2B20240608
+- pkg:cargo/google-artifactregistry1@6.0.0%2B20240608

@@ -1,0 +1,4 @@
+- pkg:cargo/wasmtime-internal-wmemcheck@35.0.0
+- pkg:cargo/wasmtime-internal-wmemcheck@36.0.0
+- pkg:cargo/wasmtime-internal-wmemcheck@36.0.1
+- pkg:cargo/wasmtime-internal-wmemcheck@36.0.2

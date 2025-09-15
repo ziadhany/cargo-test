@@ -1,0 +1,14 @@
+- pkg:cargo/tracing-otel-extra@0.30.3
+- pkg:cargo/tracing-otel-extra@0.30.4
+- pkg:cargo/tracing-otel-extra@0.30.5
+- pkg:cargo/tracing-otel-extra@0.30.6-alpha.1
+- pkg:cargo/tracing-otel-extra@0.30.6-alpha.2
+- pkg:cargo/tracing-otel-extra@0.30.6-alpha.3
+- pkg:cargo/tracing-otel-extra@0.30.6-alpha.4
+- pkg:cargo/tracing-otel-extra@0.30.6
+- pkg:cargo/tracing-otel-extra@0.30.7-alpha.1
+- pkg:cargo/tracing-otel-extra@0.30.7-alpha.2
+- pkg:cargo/tracing-otel-extra@0.30.7
+- pkg:cargo/tracing-otel-extra@0.30.8
+- pkg:cargo/tracing-otel-extra@0.30.9-alpha.2
+- pkg:cargo/tracing-otel-extra@0.30.10

@@ -1,0 +1,14 @@
+- pkg:cargo/grin_wallet_libwallet@1.1.0-beta.1
+- pkg:cargo/grin_wallet_libwallet@1.1.0
+- pkg:cargo/grin_wallet_libwallet@2.0.0
+- pkg:cargo/grin_wallet_libwallet@2.1.0
+- pkg:cargo/grin_wallet_libwallet@3.0.0
+- pkg:cargo/grin_wallet_libwallet@3.1.0
+- pkg:cargo/grin_wallet_libwallet@3.1.1
+- pkg:cargo/grin_wallet_libwallet@3.1.2
+- pkg:cargo/grin_wallet_libwallet@4.0.0
+- pkg:cargo/grin_wallet_libwallet@5.0.1
+- pkg:cargo/grin_wallet_libwallet@5.1.0
+- pkg:cargo/grin_wallet_libwallet@5.3.0
+- pkg:cargo/grin_wallet_libwallet@5.3.1
+- pkg:cargo/grin_wallet_libwallet@5.3.3

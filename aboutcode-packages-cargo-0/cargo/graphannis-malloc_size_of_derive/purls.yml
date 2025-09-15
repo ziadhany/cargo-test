@@ -1,0 +1,4 @@
+- pkg:cargo/graphannis-malloc_size_of_derive@0.0.1
+- pkg:cargo/graphannis-malloc_size_of_derive@0.1.0
+- pkg:cargo/graphannis-malloc_size_of_derive@1.0.0
+- pkg:cargo/graphannis-malloc_size_of_derive@2.0.0

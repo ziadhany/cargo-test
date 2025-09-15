@@ -1,0 +1,2 @@
+- pkg:cargo/solana-fullnode@0.11.0
+- pkg:cargo/solana-fullnode@0.12.0

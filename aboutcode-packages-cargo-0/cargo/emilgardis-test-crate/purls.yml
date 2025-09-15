@@ -1,0 +1,4 @@
+- pkg:cargo/emilgardis-test-crate@0.0.1
+- pkg:cargo/emilgardis-test-crate@0.0.2
+- pkg:cargo/emilgardis-test-crate@0.0.3-rc.1
+- pkg:cargo/emilgardis-test-crate@0.0.3

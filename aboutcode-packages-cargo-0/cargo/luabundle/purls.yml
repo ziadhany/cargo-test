@@ -1,0 +1,4 @@
+- pkg:cargo/luabundle@0.1.0-alpha
+- pkg:cargo/luabundle@1.1.0
+- pkg:cargo/luabundle@1.1.2
+- pkg:cargo/luabundle@1.1.3

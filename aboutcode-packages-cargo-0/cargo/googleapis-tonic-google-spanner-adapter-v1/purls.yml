@@ -1,0 +1,5 @@
+- pkg:cargo/googleapis-tonic-google-spanner-adapter-v1@0.1.0
+- pkg:cargo/googleapis-tonic-google-spanner-adapter-v1@0.3.0
+- pkg:cargo/googleapis-tonic-google-spanner-adapter-v1@0.6.0
+- pkg:cargo/googleapis-tonic-google-spanner-adapter-v1@0.7.0
+- pkg:cargo/googleapis-tonic-google-spanner-adapter-v1@0.8.0
