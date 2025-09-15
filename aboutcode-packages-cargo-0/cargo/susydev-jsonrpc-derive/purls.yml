@@ -1,0 +1,4 @@
+- pkg:cargo/susydev-jsonrpc-derive@10.0.2
+- pkg:cargo/susydev-jsonrpc-derive@10.0.1
+- pkg:cargo/susydev-jsonrpc-derive@10.1.0
+- pkg:cargo/susydev-jsonrpc-derive@11.0.0

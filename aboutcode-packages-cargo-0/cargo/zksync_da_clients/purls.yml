@@ -1,0 +1,14 @@
+- pkg:cargo/zksync_da_clients@26.2.1-non-semver-compat
+- pkg:cargo/zksync_da_clients@26.7.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@27.5.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@27.5.1-non-semver-compat
+- pkg:cargo/zksync_da_clients@28.0.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@28.1.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@28.7.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@28.8.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@28.10.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@29.0.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@29.1.0-non-semver-compat
+- pkg:cargo/zksync_da_clients@29.1.1-non-semver-compat
+- pkg:cargo/zksync_da_clients@29.1.2-non-semver-compat
+- pkg:cargo/zksync_da_clients@29.2.0-non-semver-compat

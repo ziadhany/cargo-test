@@ -1,0 +1,11 @@
+- pkg:cargo/pi_quic@0.1.0
+- pkg:cargo/pi_quic@0.5.0
+- pkg:cargo/pi_quic@0.5.1
+- pkg:cargo/pi_quic@0.5.3
+- pkg:cargo/pi_quic@0.6.0
+- pkg:cargo/pi_quic@0.6.1
+- pkg:cargo/pi_quic@0.6.2
+- pkg:cargo/pi_quic@0.6.3
+- pkg:cargo/pi_quic@0.6.5
+- pkg:cargo/pi_quic@0.6.6
+- pkg:cargo/pi_quic@0.7.0

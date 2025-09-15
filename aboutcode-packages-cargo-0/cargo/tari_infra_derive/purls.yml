@@ -1,0 +1,8 @@
+- pkg:cargo/tari_infra_derive@0.0.1
+- pkg:cargo/tari_infra_derive@0.0.5
+- pkg:cargo/tari_infra_derive@0.0.6
+- pkg:cargo/tari_infra_derive@0.0.7
+- pkg:cargo/tari_infra_derive@0.0.9
+- pkg:cargo/tari_infra_derive@0.0.10
+- pkg:cargo/tari_infra_derive@0.8.1
+- pkg:cargo/tari_infra_derive@0.9.5

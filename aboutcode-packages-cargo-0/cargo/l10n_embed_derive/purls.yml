@@ -1,0 +1,3 @@
+- pkg:cargo/l10n_embed_derive@0.1.0
+- pkg:cargo/l10n_embed_derive@0.1.1
+- pkg:cargo/l10n_embed_derive@0.2.0

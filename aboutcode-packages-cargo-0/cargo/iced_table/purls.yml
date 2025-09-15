@@ -1,0 +1,4 @@
+- pkg:cargo/iced_table@0.1.0
+- pkg:cargo/iced_table@0.2.0
+- pkg:cargo/iced_table@0.12.0
+- pkg:cargo/iced_table@0.13.0

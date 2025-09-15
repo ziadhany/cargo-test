@@ -1,0 +1,3 @@
+- pkg:cargo/dylib_installer@0.1.0
+- pkg:cargo/dylib_installer@0.1.1
+- pkg:cargo/dylib_installer@0.2.0
