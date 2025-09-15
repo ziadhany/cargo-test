@@ -1,0 +1,3 @@
+- pkg:cargo/chashmap-serde@0.1.0
+- pkg:cargo/chashmap-serde@0.1.1
+- pkg:cargo/chashmap-serde@2.2.3

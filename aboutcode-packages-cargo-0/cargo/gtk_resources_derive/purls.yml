@@ -1,0 +1,5 @@
+- pkg:cargo/gtk_resources_derive@0.1.0
+- pkg:cargo/gtk_resources_derive@0.1.2
+- pkg:cargo/gtk_resources_derive@0.1.4
+- pkg:cargo/gtk_resources_derive@0.1.5
+- pkg:cargo/gtk_resources_derive@0.1.6

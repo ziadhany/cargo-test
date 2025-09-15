@@ -1,0 +1,2 @@
+- pkg:cargo/fluvio-runner-local@0.2.0
+- pkg:cargo/fluvio-runner-local@0.3.0

@@ -1,0 +1,4 @@
+- pkg:cargo/lcd-ili9341-spi@0.1.0
+- pkg:cargo/lcd-ili9341-spi@0.1.1
+- pkg:cargo/lcd-ili9341-spi@0.1.2
+- pkg:cargo/lcd-ili9341-spi@0.1.3

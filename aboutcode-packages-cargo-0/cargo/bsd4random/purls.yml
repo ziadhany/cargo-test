@@ -1,0 +1,4 @@
+- pkg:cargo/bsd4random@0.9.0
+- pkg:cargo/bsd4random@0.9.1-alpha.1
+- pkg:cargo/bsd4random@0.9.1-alpha.2
+- pkg:cargo/bsd4random@0.9.1-alpha.3

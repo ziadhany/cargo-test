@@ -1,0 +1,6 @@
+- pkg:cargo/bitcoin-primitives@0.1.10-alpha.0
+- pkg:cargo/bitcoin-primitives@0.1.12-alpha.0
+- pkg:cargo/bitcoin-primitives@0.1.13-alpha.0
+- pkg:cargo/bitcoin-primitives@0.1.16-alpha.0
+- pkg:cargo/bitcoin-primitives@0.100.0
+- pkg:cargo/bitcoin-primitives@0.101.0

@@ -1,0 +1,14 @@
+- pkg:cargo/memfaultc-sys@1.14.0
+- pkg:cargo/memfaultc-sys@1.15.0
+- pkg:cargo/memfaultc-sys@1.15.1
+- pkg:cargo/memfaultc-sys@1.16.1
+- pkg:cargo/memfaultc-sys@1.17.0
+- pkg:cargo/memfaultc-sys@1.18.0
+- pkg:cargo/memfaultc-sys@1.18.1
+- pkg:cargo/memfaultc-sys@1.19.0
+- pkg:cargo/memfaultc-sys@1.20.0
+- pkg:cargo/memfaultc-sys@1.21.0
+- pkg:cargo/memfaultc-sys@1.21.1
+- pkg:cargo/memfaultc-sys@1.22.0
+- pkg:cargo/memfaultc-sys@1.23.0
+- pkg:cargo/memfaultc-sys@1.24.0
