@@ -1,0 +1,4 @@
+- pkg:cargo/readpassphrase-sys@0.0.1
+- pkg:cargo/readpassphrase-sys@0.0.2
+- pkg:cargo/readpassphrase-sys@0.0.3
+- pkg:cargo/readpassphrase-sys@0.1.0

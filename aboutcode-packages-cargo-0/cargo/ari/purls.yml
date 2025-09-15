@@ -1,0 +1,8 @@
+- pkg:cargo/ari@0.0.1
+- pkg:cargo/ari@0.0.1-type-name-via-intrinsics
+- pkg:cargo/ari@0.0.1-type-name-via-unsafe-intrinsics
+- pkg:cargo/ari@0.0.2
+- pkg:cargo/ari@0.0.3
+- pkg:cargo/ari@0.0.4
+- pkg:cargo/ari@0.0.5
+- pkg:cargo/ari@0.0.6

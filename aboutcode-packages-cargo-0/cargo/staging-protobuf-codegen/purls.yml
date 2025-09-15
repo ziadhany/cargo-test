@@ -1,0 +1,4 @@
+- pkg:cargo/staging-protobuf-codegen@4.27.3-beta.0
+- pkg:cargo/staging-protobuf-codegen@4.30.0-beta
+- pkg:cargo/staging-protobuf-codegen@4.30.0-beta.1
+- pkg:cargo/staging-protobuf-codegen@4.30.0-beta1

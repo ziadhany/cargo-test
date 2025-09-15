@@ -1,0 +1,16 @@
+- pkg:cargo/ckb-librocksdb-sys@6.4.6
+- pkg:cargo/ckb-librocksdb-sys@6.7.3
+- pkg:cargo/ckb-librocksdb-sys@6.7.4
+- pkg:cargo/ckb-librocksdb-sys@6.11.6
+- pkg:cargo/ckb-librocksdb-sys@6.20.3
+- pkg:cargo/ckb-librocksdb-sys@6.20.4
+- pkg:cargo/ckb-librocksdb-sys@7.2.2
+- pkg:cargo/ckb-librocksdb-sys@7.3.1
+- pkg:cargo/ckb-librocksdb-sys@7.3.2
+- pkg:cargo/ckb-librocksdb-sys@7.3.3
+- pkg:cargo/ckb-librocksdb-sys@7.7.3
+- pkg:cargo/ckb-librocksdb-sys@8.1.1
+- pkg:cargo/ckb-librocksdb-sys@8.5.3
+- pkg:cargo/ckb-librocksdb-sys@8.5.4
+- pkg:cargo/ckb-librocksdb-sys@9.10.0
+- pkg:cargo/ckb-librocksdb-sys@9.10.2

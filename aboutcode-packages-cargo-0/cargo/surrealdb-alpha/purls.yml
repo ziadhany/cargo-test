@@ -1,0 +1,17 @@
+- pkg:cargo/surrealdb-alpha@2.0.0
+- pkg:cargo/surrealdb-alpha@2.0.1
+- pkg:cargo/surrealdb-alpha@2.0.2
+- pkg:cargo/surrealdb-alpha@2.0.3
+- pkg:cargo/surrealdb-alpha@2.0.4
+- pkg:cargo/surrealdb-alpha@2.0.5
+- pkg:cargo/surrealdb-alpha@2.0.6
+- pkg:cargo/surrealdb-alpha@2.0.7
+- pkg:cargo/surrealdb-alpha@2.0.8
+- pkg:cargo/surrealdb-alpha@2.0.9
+- pkg:cargo/surrealdb-alpha@3.0.0-alpha.1
+- pkg:cargo/surrealdb-alpha@3.0.1
+- pkg:cargo/surrealdb-alpha@3.0.2
+- pkg:cargo/surrealdb-alpha@3.0.3
+- pkg:cargo/surrealdb-alpha@3.0.4
+- pkg:cargo/surrealdb-alpha@3.0.5
+- pkg:cargo/surrealdb-alpha@3.0.6

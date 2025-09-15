@@ -1,0 +1,4 @@
+- pkg:cargo/solana-config-program-client@0.0.1
+- pkg:cargo/solana-config-program-client@0.0.2
+- pkg:cargo/solana-config-program-client@1.0.0
+- pkg:cargo/solana-config-program-client@1.1.0

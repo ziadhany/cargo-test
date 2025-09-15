@@ -1,0 +1,5 @@
+- pkg:cargo/connection-utils@0.2.0
+- pkg:cargo/connection-utils@0.3.1
+- pkg:cargo/connection-utils@0.5.0
+- pkg:cargo/connection-utils@0.7.0
+- pkg:cargo/connection-utils@0.8.0

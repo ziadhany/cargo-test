@@ -1,0 +1,3 @@
+- pkg:cargo/multihashes@0.0.0
+- pkg:cargo/multihashes@0.0.1-multihashes
+- pkg:cargo/multihashes@0.0.0--

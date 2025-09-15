@@ -1,0 +1,15 @@
+- pkg:cargo/yellowstone-fumarole-client@0.1.0%2Bsolana.2.1.11
+- pkg:cargo/yellowstone-fumarole-client@0.1.1-pre.1%2Bsolana.2.1.11
+- pkg:cargo/yellowstone-fumarole-client@0.1.1-pre.2%2Bsolana.2.1.11
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-pre.1%2Bsolana.2.1.11
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-pre.2%2Bsolana.2.1
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-pre.3%2Bsolana.2.1
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc1%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc2%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc3%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc4%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc5%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc6%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc7%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0-rc8%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.0%2Bsolana.2

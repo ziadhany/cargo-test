@@ -1,0 +1,7 @@
+- pkg:cargo/kraken_futures_rest_client@0.20.0
+- pkg:cargo/kraken_futures_rest_client@0.22.0
+- pkg:cargo/kraken_futures_rest_client@0.23.0
+- pkg:cargo/kraken_futures_rest_client@0.24.0
+- pkg:cargo/kraken_futures_rest_client@0.25.0
+- pkg:cargo/kraken_futures_rest_client@0.26.0
+- pkg:cargo/kraken_futures_rest_client@0.27.0
