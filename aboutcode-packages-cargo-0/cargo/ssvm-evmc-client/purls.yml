@@ -1,0 +1,8 @@
+- pkg:cargo/ssvm-evmc-client@7.4.0
+- pkg:cargo/ssvm-evmc-client@7.4.1
+- pkg:cargo/ssvm-evmc-client@6.3.1
+- pkg:cargo/ssvm-evmc-client@6.3.1-rc1
+- pkg:cargo/ssvm-evmc-client@7.4.0-rc1
+- pkg:cargo/ssvm-evmc-client@6.3.1-rc3
+- pkg:cargo/ssvm-evmc-client@7.4.0-rc2
+- pkg:cargo/ssvm-evmc-client@6.3.1-rc4

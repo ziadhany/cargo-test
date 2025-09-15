@@ -1,0 +1,4 @@
+- pkg:cargo/azure_mgmt_edgemarketplace@0.18.0
+- pkg:cargo/azure_mgmt_edgemarketplace@0.19.0
+- pkg:cargo/azure_mgmt_edgemarketplace@0.20.0
+- pkg:cargo/azure_mgmt_edgemarketplace@0.21.0

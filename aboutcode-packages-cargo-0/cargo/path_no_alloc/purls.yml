@@ -1,0 +1,4 @@
+- pkg:cargo/path_no_alloc@0.1.0
+- pkg:cargo/path_no_alloc@0.1.1-beta
+- pkg:cargo/path_no_alloc@0.1.1
+- pkg:cargo/path_no_alloc@0.1.2

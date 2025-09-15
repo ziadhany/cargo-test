@@ -1,0 +1,6 @@
+- pkg:cargo/coppeliasim_zmq_remote_api@4.6.0
+- pkg:cargo/coppeliasim_zmq_remote_api@4.6.1
+- pkg:cargo/coppeliasim_zmq_remote_api@4.7.0
+- pkg:cargo/coppeliasim_zmq_remote_api@4.8.0
+- pkg:cargo/coppeliasim_zmq_remote_api@4.9.0
+- pkg:cargo/coppeliasim_zmq_remote_api@4.10.0

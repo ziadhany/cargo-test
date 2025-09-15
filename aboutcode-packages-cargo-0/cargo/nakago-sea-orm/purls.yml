@@ -1,0 +1,16 @@
+- pkg:cargo/nakago-sea-orm@0.8.0
+- pkg:cargo/nakago-sea-orm@0.9.0
+- pkg:cargo/nakago-sea-orm@0.10.0
+- pkg:cargo/nakago-sea-orm@0.12.0
+- pkg:cargo/nakago-sea-orm@0.12.1
+- pkg:cargo/nakago-sea-orm@0.13.0
+- pkg:cargo/nakago-sea-orm@0.14.1
+- pkg:cargo/nakago-sea-orm@0.17.0
+- pkg:cargo/nakago-sea-orm@0.18.0
+- pkg:cargo/nakago-sea-orm@0.19.0
+- pkg:cargo/nakago-sea-orm@0.19.1
+- pkg:cargo/nakago-sea-orm@0.20.0
+- pkg:cargo/nakago-sea-orm@0.22.0
+- pkg:cargo/nakago-sea-orm@0.23.0
+- pkg:cargo/nakago-sea-orm@0.24.1
+- pkg:cargo/nakago-sea-orm@0.25.0

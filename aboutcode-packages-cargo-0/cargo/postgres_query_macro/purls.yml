@@ -1,0 +1,3 @@
+- pkg:cargo/postgres_query_macro@0.2.0
+- pkg:cargo/postgres_query_macro@0.3.0
+- pkg:cargo/postgres_query_macro@0.3.1

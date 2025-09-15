@@ -1,0 +1,14 @@
+- pkg:cargo/charms-client@0.4.1
+- pkg:cargo/charms-client@0.5.1
+- pkg:cargo/charms-client@0.5.2
+- pkg:cargo/charms-client@0.5.3
+- pkg:cargo/charms-client@0.5.4
+- pkg:cargo/charms-client@0.6.1
+- pkg:cargo/charms-client@0.6.2
+- pkg:cargo/charms-client@0.6.3
+- pkg:cargo/charms-client@0.7.0
+- pkg:cargo/charms-client@0.8.0
+- pkg:cargo/charms-client@0.8.1
+- pkg:cargo/charms-client@0.9.0
+- pkg:cargo/charms-client@0.9.1
+- pkg:cargo/charms-client@0.9.2

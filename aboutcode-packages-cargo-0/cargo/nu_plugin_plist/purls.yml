@@ -1,0 +1,14 @@
+- pkg:cargo/nu_plugin_plist@0.1.1
+- pkg:cargo/nu_plugin_plist@0.1.2
+- pkg:cargo/nu_plugin_plist@0.1.4
+- pkg:cargo/nu_plugin_plist@0.1.5
+- pkg:cargo/nu_plugin_plist@0.1.6
+- pkg:cargo/nu_plugin_plist@0.89.0
+- pkg:cargo/nu_plugin_plist@0.89.1
+- pkg:cargo/nu_plugin_plist@0.89.2
+- pkg:cargo/nu_plugin_plist@0.89.3
+- pkg:cargo/nu_plugin_plist@0.91.0
+- pkg:cargo/nu_plugin_plist@0.92.1
+- pkg:cargo/nu_plugin_plist@0.94.0
+- pkg:cargo/nu_plugin_plist@0.95.0
+- pkg:cargo/nu_plugin_plist@0.96.0

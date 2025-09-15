@@ -1,0 +1,14 @@
+- pkg:cargo/exonum-crypto@0.10.0
+- pkg:cargo/exonum-crypto@0.10.1
+- pkg:cargo/exonum-crypto@0.10.2
+- pkg:cargo/exonum-crypto@0.10.3
+- pkg:cargo/exonum-crypto@0.10.4
+- pkg:cargo/exonum-crypto@0.11.0
+- pkg:cargo/exonum-crypto@0.12.0
+- pkg:cargo/exonum-crypto@0.10.5
+- pkg:cargo/exonum-crypto@0.13.0-rc.1
+- pkg:cargo/exonum-crypto@0.13.0-rc.2
+- pkg:cargo/exonum-crypto@1.0.0-rc.1
+- pkg:cargo/exonum-crypto@1.0.0-rc.2
+- pkg:cargo/exonum-crypto@1.0.0-rc.3
+- pkg:cargo/exonum-crypto@1.0.0

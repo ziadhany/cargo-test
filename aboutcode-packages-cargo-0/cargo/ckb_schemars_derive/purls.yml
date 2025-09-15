@@ -1,0 +1,4 @@
+- pkg:cargo/ckb_schemars_derive@0.8.15
+- pkg:cargo/ckb_schemars_derive@0.8.16
+- pkg:cargo/ckb_schemars_derive@0.8.19
+- pkg:cargo/ckb_schemars_derive@0.8.22

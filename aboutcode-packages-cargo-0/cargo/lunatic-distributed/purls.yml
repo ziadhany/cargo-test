@@ -1,0 +1,4 @@
+- pkg:cargo/lunatic-distributed@0.10.0
+- pkg:cargo/lunatic-distributed@0.12.0
+- pkg:cargo/lunatic-distributed@0.13.1
+- pkg:cargo/lunatic-distributed@0.13.2

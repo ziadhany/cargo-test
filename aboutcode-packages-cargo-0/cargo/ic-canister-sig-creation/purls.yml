@@ -1,0 +1,4 @@
+- pkg:cargo/ic-canister-sig-creation@1.0.1
+- pkg:cargo/ic-canister-sig-creation@1.1.0
+- pkg:cargo/ic-canister-sig-creation@1.2.0
+- pkg:cargo/ic-canister-sig-creation@1.3.0

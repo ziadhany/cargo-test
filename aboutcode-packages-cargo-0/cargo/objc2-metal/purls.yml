@@ -1,0 +1,5 @@
+- pkg:cargo/objc2-metal@0.2.0
+- pkg:cargo/objc2-metal@0.2.1
+- pkg:cargo/objc2-metal@0.2.2
+- pkg:cargo/objc2-metal@0.3.0
+- pkg:cargo/objc2-metal@0.3.1

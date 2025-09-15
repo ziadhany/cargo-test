@@ -1,0 +1,6 @@
+- pkg:cargo/wasm-sockets@0.1.0
+- pkg:cargo/wasm-sockets@0.2.0
+- pkg:cargo/wasm-sockets@0.2.1
+- pkg:cargo/wasm-sockets@0.2.2
+- pkg:cargo/wasm-sockets@0.3.0
+- pkg:cargo/wasm-sockets@1.0.0

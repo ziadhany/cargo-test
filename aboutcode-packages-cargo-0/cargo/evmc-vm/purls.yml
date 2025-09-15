@@ -1,0 +1,7 @@
+- pkg:cargo/evmc-vm@7.1.0
+- pkg:cargo/evmc-vm@7.2.0
+- pkg:cargo/evmc-vm@7.3.0
+- pkg:cargo/evmc-vm@7.4.0
+- pkg:cargo/evmc-vm@7.5.0
+- pkg:cargo/evmc-vm@8.0.0
+- pkg:cargo/evmc-vm@9.0.0

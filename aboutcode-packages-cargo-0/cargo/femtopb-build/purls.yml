@@ -1,0 +1,16 @@
+- pkg:cargo/femtopb-build@0.1.1
+- pkg:cargo/femtopb-build@0.1.2
+- pkg:cargo/femtopb-build@0.1.3
+- pkg:cargo/femtopb-build@0.1.4
+- pkg:cargo/femtopb-build@0.2.0
+- pkg:cargo/femtopb-build@0.3.0
+- pkg:cargo/femtopb-build@0.4.0
+- pkg:cargo/femtopb-build@0.4.1
+- pkg:cargo/femtopb-build@0.4.2
+- pkg:cargo/femtopb-build@0.4.3
+- pkg:cargo/femtopb-build@0.4.4
+- pkg:cargo/femtopb-build@0.4.5
+- pkg:cargo/femtopb-build@0.5.0
+- pkg:cargo/femtopb-build@0.6.0
+- pkg:cargo/femtopb-build@0.6.1
+- pkg:cargo/femtopb-build@0.8.0
