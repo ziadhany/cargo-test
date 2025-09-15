@@ -1,0 +1,10 @@
+- pkg:cargo/komodo_cli@1.14.0-res
+- pkg:cargo/komodo_cli@1.14.0-rc1
+- pkg:cargo/komodo_cli@1.14.0
+- pkg:cargo/komodo_cli@1.14.1
+- pkg:cargo/komodo_cli@1.14.2
+- pkg:cargo/komodo_cli@1.15.0
+- pkg:cargo/komodo_cli@1.15.4
+- pkg:cargo/komodo_cli@1.15.6
+- pkg:cargo/komodo_cli@1.15.7
+- pkg:cargo/komodo_cli@1.15.8

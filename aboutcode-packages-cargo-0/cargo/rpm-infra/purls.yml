@@ -1,0 +1,6 @@
+- pkg:cargo/rpm-infra@0.0.1
+- pkg:cargo/rpm-infra@0.0.2
+- pkg:cargo/rpm-infra@0.0.3
+- pkg:cargo/rpm-infra@0.12.0
+- pkg:cargo/rpm-infra@0.12.1
+- pkg:cargo/rpm-infra@0.12.2

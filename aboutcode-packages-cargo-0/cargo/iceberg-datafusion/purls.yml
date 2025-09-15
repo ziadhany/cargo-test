@@ -1,0 +1,4 @@
+- pkg:cargo/iceberg-datafusion@0.3.0
+- pkg:cargo/iceberg-datafusion@0.4.0
+- pkg:cargo/iceberg-datafusion@0.5.1
+- pkg:cargo/iceberg-datafusion@0.6.0

@@ -1,0 +1,7 @@
+- pkg:cargo/linera-wasmer@4.3.1-linera.1
+- pkg:cargo/linera-wasmer@4.3.1-linera.2
+- pkg:cargo/linera-wasmer@4.3.6-linera.3
+- pkg:cargo/linera-wasmer@4.3.6-linera.4
+- pkg:cargo/linera-wasmer@4.4.0-linera.5
+- pkg:cargo/linera-wasmer@4.4.0-linera.6
+- pkg:cargo/linera-wasmer@4.4.0-linera.7

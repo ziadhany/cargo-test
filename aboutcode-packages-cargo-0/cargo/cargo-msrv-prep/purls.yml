@@ -1,0 +1,6 @@
+- pkg:cargo/cargo-msrv-prep@0.1.0
+- pkg:cargo/cargo-msrv-prep@1.0.0
+- pkg:cargo/cargo-msrv-prep@1.0.1
+- pkg:cargo/cargo-msrv-prep@2.0.0
+- pkg:cargo/cargo-msrv-prep@2.1.0
+- pkg:cargo/cargo-msrv-prep@2.1.1

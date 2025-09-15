@@ -1,0 +1,3 @@
+- pkg:cargo/osm_pbf_iter@0.1.0
+- pkg:cargo/osm_pbf_iter@0.2.0
+- pkg:cargo/osm_pbf_iter@0.2.1

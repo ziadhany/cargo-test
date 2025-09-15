@@ -1,0 +1,2 @@
+- pkg:cargo/opencv-wasm@4.8.0
+- pkg:cargo/opencv-wasm@4.8.1
