@@ -1,0 +1,5 @@
+- pkg:cargo/sqltk-parser@0.52.0
+- pkg:cargo/sqltk-parser@0.53.0-cipherstash.1
+- pkg:cargo/sqltk-parser@0.53.0-cipherstash.2
+- pkg:cargo/sqltk-parser@0.56.0-cipherstash.1
+- pkg:cargo/sqltk-parser@0.56.0-cipherstash.2

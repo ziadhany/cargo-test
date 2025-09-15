@@ -1,0 +1,5 @@
+- pkg:cargo/swc_sourcemap@9.3.0
+- pkg:cargo/swc_sourcemap@9.3.1
+- pkg:cargo/swc_sourcemap@9.3.2
+- pkg:cargo/swc_sourcemap@9.3.3
+- pkg:cargo/swc_sourcemap@9.3.4

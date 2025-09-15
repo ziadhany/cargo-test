@@ -1,0 +1,6 @@
+- pkg:cargo/grpc-protobuf@0.7.0
+- pkg:cargo/grpc-protobuf@0.7.1
+- pkg:cargo/grpc-protobuf@0.8.0
+- pkg:cargo/grpc-protobuf@0.8.1
+- pkg:cargo/grpc-protobuf@0.8.2
+- pkg:cargo/grpc-protobuf@0.8.3

@@ -1,0 +1,3 @@
+- pkg:cargo/fakepty@1.0.0
+- pkg:cargo/fakepty@1.1.0
+- pkg:cargo/fakepty@1.2.0

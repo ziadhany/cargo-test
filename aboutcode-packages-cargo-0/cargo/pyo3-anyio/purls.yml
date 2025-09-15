@@ -1,0 +1,3 @@
+- pkg:cargo/pyo3-anyio@0.1.0
+- pkg:cargo/pyo3-anyio@0.2.0
+- pkg:cargo/pyo3-anyio@0.3.0

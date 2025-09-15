@@ -1,0 +1,17 @@
+- pkg:cargo/testfile@0.0.1
+- pkg:cargo/testfile@0.0.2
+- pkg:cargo/testfile@0.0.3
+- pkg:cargo/testfile@0.0.4
+- pkg:cargo/testfile@0.1.0
+- pkg:cargo/testfile@0.1.1
+- pkg:cargo/testfile@0.1.2
+- pkg:cargo/testfile@0.1.3
+- pkg:cargo/testfile@0.1.4
+- pkg:cargo/testfile@0.1.5
+- pkg:cargo/testfile@0.2.0-alpha.1
+- pkg:cargo/testfile@0.2.0-alpha.2
+- pkg:cargo/testfile@0.2.0-alpha.3
+- pkg:cargo/testfile@0.2.0-alpha.4
+- pkg:cargo/testfile@0.2.0-alpha.5
+- pkg:cargo/testfile@0.2.0-alpha.6
+- pkg:cargo/testfile@0.2.0-alpha.7

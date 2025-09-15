@@ -1,0 +1,12 @@
+- pkg:cargo/marker_lints@0.0.0-placeholder
+- pkg:cargo/marker_lints@0.1.0
+- pkg:cargo/marker_lints@0.1.1
+- pkg:cargo/marker_lints@0.2.0
+- pkg:cargo/marker_lints@0.2.1
+- pkg:cargo/marker_lints@0.3.0
+- pkg:cargo/marker_lints@0.4.0
+- pkg:cargo/marker_lints@0.4.1
+- pkg:cargo/marker_lints@0.4.2
+- pkg:cargo/marker_lints@0.4.3-rc
+- pkg:cargo/marker_lints@0.4.3
+- pkg:cargo/marker_lints@0.5.0

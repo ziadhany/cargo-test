@@ -1,0 +1,5 @@
+- pkg:cargo/mysql_wasi@22.2.0
+- pkg:cargo/mysql_wasi@22.2.1
+- pkg:cargo/mysql_wasi@23.0.0
+- pkg:cargo/mysql_wasi@23.0.1
+- pkg:cargo/mysql_wasi@23.0.2

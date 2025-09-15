@@ -1,0 +1,5 @@
+- pkg:cargo/axum-casbin-auth@0.1.0
+- pkg:cargo/axum-casbin-auth@1.0.0
+- pkg:cargo/axum-casbin-auth@1.0.1
+- pkg:cargo/axum-casbin-auth@2.0.0
+- pkg:cargo/axum-casbin-auth@2.0.1

@@ -1,0 +1,14 @@
+- pkg:cargo/device-driver-generation@0.5.0
+- pkg:cargo/device-driver-generation@0.5.3
+- pkg:cargo/device-driver-generation@0.6.0
+- pkg:cargo/device-driver-generation@0.7.0
+- pkg:cargo/device-driver-generation@1.0.0-rc.0
+- pkg:cargo/device-driver-generation@1.0.0-rc.1
+- pkg:cargo/device-driver-generation@1.0.0
+- pkg:cargo/device-driver-generation@1.0.1
+- pkg:cargo/device-driver-generation@1.0.2
+- pkg:cargo/device-driver-generation@1.0.3
+- pkg:cargo/device-driver-generation@1.0.4
+- pkg:cargo/device-driver-generation@1.0.5
+- pkg:cargo/device-driver-generation@1.0.6
+- pkg:cargo/device-driver-generation@1.0.7
