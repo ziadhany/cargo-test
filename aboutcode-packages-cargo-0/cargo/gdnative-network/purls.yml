@@ -1,0 +1,3 @@
+- pkg:cargo/gdnative-network@0.5.0
+- pkg:cargo/gdnative-network@0.6.0
+- pkg:cargo/gdnative-network@0.6.1

@@ -1,0 +1,4 @@
+- pkg:cargo/u-siem-sonicwall@0.0.5
+- pkg:cargo/u-siem-sonicwall@0.0.6
+- pkg:cargo/u-siem-sonicwall@0.0.9
+- pkg:cargo/u-siem-sonicwall@0.0.10

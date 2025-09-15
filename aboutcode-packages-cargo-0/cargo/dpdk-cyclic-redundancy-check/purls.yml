@@ -1,0 +1,2 @@
+- pkg:cargo/dpdk-cyclic-redundancy-check@0.1.0
+- pkg:cargo/dpdk-cyclic-redundancy-check@0.1.1

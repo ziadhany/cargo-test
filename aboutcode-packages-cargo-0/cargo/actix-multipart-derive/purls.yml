@@ -1,0 +1,4 @@
+- pkg:cargo/actix-multipart-derive@0.1.0
+- pkg:cargo/actix-multipart-derive@0.6.0
+- pkg:cargo/actix-multipart-derive@0.6.1
+- pkg:cargo/actix-multipart-derive@0.7.0

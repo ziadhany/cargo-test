@@ -1,0 +1,6 @@
+- pkg:cargo/bellscoincore-rpc@0.17.0
+- pkg:cargo/bellscoincore-rpc@0.17.1
+- pkg:cargo/bellscoincore-rpc@0.17.2
+- pkg:cargo/bellscoincore-rpc@0.17.3
+- pkg:cargo/bellscoincore-rpc@0.17.4
+- pkg:cargo/bellscoincore-rpc@0.18.0

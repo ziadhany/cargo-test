@@ -1,0 +1,4 @@
+- pkg:cargo/quinn-boring2@0.2.0
+- pkg:cargo/quinn-boring2@5.0.0-alpha.7
+- pkg:cargo/quinn-boring2@5.0.0-alpha.8
+- pkg:cargo/quinn-boring2@5.0.0-alpha.9

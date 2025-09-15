@@ -1,0 +1,11 @@
+- pkg:cargo/ckb-index@0.1.0
+- pkg:cargo/ckb-index@0.39.1
+- pkg:cargo/ckb-index@0.40.0
+- pkg:cargo/ckb-index@0.42.0
+- pkg:cargo/ckb-index@0.43.0
+- pkg:cargo/ckb-index@0.100.0-rc2
+- pkg:cargo/ckb-index@0.100.0-rc5
+- pkg:cargo/ckb-index@0.100.0
+- pkg:cargo/ckb-index@0.101.0
+- pkg:cargo/ckb-index@0.101.1
+- pkg:cargo/ckb-index@1.0.0

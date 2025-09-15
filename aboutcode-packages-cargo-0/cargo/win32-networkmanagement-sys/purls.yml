@@ -1,0 +1,2 @@
+- pkg:cargo/win32-networkmanagement-sys@0.0.2
+- pkg:cargo/win32-networkmanagement-sys@0.1.0

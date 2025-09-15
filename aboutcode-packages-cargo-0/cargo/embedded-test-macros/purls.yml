@@ -1,0 +1,12 @@
+- pkg:cargo/embedded-test-macros@0.1.0
+- pkg:cargo/embedded-test-macros@0.2.0
+- pkg:cargo/embedded-test-macros@0.2.1
+- pkg:cargo/embedded-test-macros@0.2.2
+- pkg:cargo/embedded-test-macros@0.3.0
+- pkg:cargo/embedded-test-macros@0.4.0
+- pkg:cargo/embedded-test-macros@0.5.0
+- pkg:cargo/embedded-test-macros@0.6.0
+- pkg:cargo/embedded-test-macros@0.6.1
+- pkg:cargo/embedded-test-macros@0.7.0-alpha.0
+- pkg:cargo/embedded-test-macros@0.7.0-alpha.1
+- pkg:cargo/embedded-test-macros@0.7.0-alpha.2

@@ -1,0 +1,3 @@
+- pkg:cargo/twirp-build-rs@0.3.0
+- pkg:cargo/twirp-build-rs@0.3.0-succinct
+- pkg:cargo/twirp-build-rs@0.13.0-succinct

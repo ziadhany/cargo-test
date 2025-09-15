@@ -1,0 +1,15 @@
+- pkg:cargo/nscldaq_ringbuffer@0.4.0
+- pkg:cargo/nscldaq_ringbuffer@0.5.0
+- pkg:cargo/nscldaq_ringbuffer@0.6.0
+- pkg:cargo/nscldaq_ringbuffer@0.6.1
+- pkg:cargo/nscldaq_ringbuffer@0.6.2
+- pkg:cargo/nscldaq_ringbuffer@0.6.3
+- pkg:cargo/nscldaq_ringbuffer@0.6.4
+- pkg:cargo/nscldaq_ringbuffer@0.7.0
+- pkg:cargo/nscldaq_ringbuffer@0.7.1
+- pkg:cargo/nscldaq_ringbuffer@0.7.4
+- pkg:cargo/nscldaq_ringbuffer@0.7.5
+- pkg:cargo/nscldaq_ringbuffer@0.7.6
+- pkg:cargo/nscldaq_ringbuffer@0.8.6
+- pkg:cargo/nscldaq_ringbuffer@0.8.7
+- pkg:cargo/nscldaq_ringbuffer@0.8.8

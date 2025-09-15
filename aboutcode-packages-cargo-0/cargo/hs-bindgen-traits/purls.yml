@@ -1,0 +1,14 @@
+- pkg:cargo/hs-bindgen-traits@0.4.0
+- pkg:cargo/hs-bindgen-traits@0.4.1
+- pkg:cargo/hs-bindgen-traits@0.5.0
+- pkg:cargo/hs-bindgen-traits@0.5.1
+- pkg:cargo/hs-bindgen-traits@0.5.2
+- pkg:cargo/hs-bindgen-traits@0.6.0
+- pkg:cargo/hs-bindgen-traits@0.6.1
+- pkg:cargo/hs-bindgen-traits@0.6.2
+- pkg:cargo/hs-bindgen-traits@0.6.3
+- pkg:cargo/hs-bindgen-traits@0.7.0
+- pkg:cargo/hs-bindgen-traits@0.7.1
+- pkg:cargo/hs-bindgen-traits@0.7.2
+- pkg:cargo/hs-bindgen-traits@0.8.0
+- pkg:cargo/hs-bindgen-traits@0.9.0
