@@ -1,0 +1,3 @@
+- pkg:cargo/iptables_exporter@0.1.0
+- pkg:cargo/iptables_exporter@0.3.0
+- pkg:cargo/iptables_exporter@0.4.0

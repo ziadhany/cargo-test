@@ -1,0 +1,2 @@
+- pkg:cargo/fuzz-introspector-client@0.0.1
+- pkg:cargo/fuzz-introspector-client@0.0.2

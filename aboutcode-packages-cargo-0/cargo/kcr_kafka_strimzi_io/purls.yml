@@ -1,0 +1,8 @@
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250330.185913
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250403.35756
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250410.35721
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250417.35748
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250515.40028
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250522.40231
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250724.42747
+- pkg:cargo/kcr_kafka_strimzi_io@1.20250828.35714

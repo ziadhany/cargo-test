@@ -1,0 +1,2 @@
+- pkg:cargo/wasmer-wit-bindgen-gen-core@0.1.0
+- pkg:cargo/wasmer-wit-bindgen-gen-core@0.1.1

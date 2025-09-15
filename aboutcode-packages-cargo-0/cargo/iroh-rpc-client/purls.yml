@@ -1,0 +1,3 @@
+- pkg:cargo/iroh-rpc-client@0.1.2
+- pkg:cargo/iroh-rpc-client@0.1.3
+- pkg:cargo/iroh-rpc-client@0.2.0

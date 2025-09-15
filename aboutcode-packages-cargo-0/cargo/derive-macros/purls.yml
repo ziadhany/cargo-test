@@ -1,0 +1,6 @@
+- pkg:cargo/derive-macros@1.0.0
+- pkg:cargo/derive-macros@2.0.0
+- pkg:cargo/derive-macros@2.1.0
+- pkg:cargo/derive-macros@2.1.1
+- pkg:cargo/derive-macros@2.2.0
+- pkg:cargo/derive-macros@2.3.0

@@ -1,0 +1,5 @@
+- pkg:cargo/nu_plugin_sum@0.7.0
+- pkg:cargo/nu_plugin_sum@0.8.0
+- pkg:cargo/nu_plugin_sum@0.9.0
+- pkg:cargo/nu_plugin_sum@0.10.0
+- pkg:cargo/nu_plugin_sum@0.11.0

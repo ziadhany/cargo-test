@@ -1,0 +1,10 @@
+- pkg:cargo/ldtk_rust@0.1.0
+- pkg:cargo/ldtk_rust@0.2.0
+- pkg:cargo/ldtk_rust@0.3.0
+- pkg:cargo/ldtk_rust@0.4.0
+- pkg:cargo/ldtk_rust@0.4.1
+- pkg:cargo/ldtk_rust@0.5.0
+- pkg:cargo/ldtk_rust@0.5.1
+- pkg:cargo/ldtk_rust@0.5.2
+- pkg:cargo/ldtk_rust@0.5.3
+- pkg:cargo/ldtk_rust@0.6.0

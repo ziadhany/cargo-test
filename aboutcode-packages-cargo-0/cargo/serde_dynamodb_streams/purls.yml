@@ -1,0 +1,2 @@
+- pkg:cargo/serde_dynamodb_streams@0.7.0
+- pkg:cargo/serde_dynamodb_streams@0.7.1
