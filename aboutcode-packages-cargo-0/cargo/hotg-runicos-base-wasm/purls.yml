@@ -1,0 +1,15 @@
+- pkg:cargo/hotg-runicos-base-wasm@0.4.0
+- pkg:cargo/hotg-runicos-base-wasm@0.5.2
+- pkg:cargo/hotg-runicos-base-wasm@0.5.3
+- pkg:cargo/hotg-runicos-base-wasm@0.6.0
+- pkg:cargo/hotg-runicos-base-wasm@0.7.0
+- pkg:cargo/hotg-runicos-base-wasm@0.8.0
+- pkg:cargo/hotg-runicos-base-wasm@0.9.0
+- pkg:cargo/hotg-runicos-base-wasm@0.9.2
+- pkg:cargo/hotg-runicos-base-wasm@0.9.3
+- pkg:cargo/hotg-runicos-base-wasm@0.10.0
+- pkg:cargo/hotg-runicos-base-wasm@0.9.4
+- pkg:cargo/hotg-runicos-base-wasm@0.11.0
+- pkg:cargo/hotg-runicos-base-wasm@0.11.1
+- pkg:cargo/hotg-runicos-base-wasm@0.11.2
+- pkg:cargo/hotg-runicos-base-wasm@0.11.3

@@ -1,0 +1,10 @@
+- pkg:cargo/ssh-encoding@0.0.0
+- pkg:cargo/ssh-encoding@0.1.0
+- pkg:cargo/ssh-encoding@0.2.0-pre
+- pkg:cargo/ssh-encoding@0.2.0-pre.0
+- pkg:cargo/ssh-encoding@0.2.0
+- pkg:cargo/ssh-encoding@0.3.0-pre.0
+- pkg:cargo/ssh-encoding@0.3.0-pre.1
+- pkg:cargo/ssh-encoding@0.3.0-rc.0
+- pkg:cargo/ssh-encoding@0.3.0-rc.1
+- pkg:cargo/ssh-encoding@0.3.0-rc.2

@@ -1,0 +1,4 @@
+- pkg:cargo/apple-apns-cli@0.5.0
+- pkg:cargo/apple-apns-cli@0.5.1
+- pkg:cargo/apple-apns-cli@0.5.2
+- pkg:cargo/apple-apns-cli@0.5.3

@@ -1,0 +1,4 @@
+- pkg:cargo/ophelia-ed25519@0.1.0
+- pkg:cargo/ophelia-ed25519@0.2.0
+- pkg:cargo/ophelia-ed25519@0.3.1
+- pkg:cargo/ophelia-ed25519@0.3.2

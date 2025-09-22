@@ -1,0 +1,14 @@
+- pkg:cargo/bitcode_derive@0.1.0
+- pkg:cargo/bitcode_derive@0.1.1
+- pkg:cargo/bitcode_derive@0.1.2
+- pkg:cargo/bitcode_derive@0.1.3
+- pkg:cargo/bitcode_derive@0.1.4
+- pkg:cargo/bitcode_derive@0.5.0
+- pkg:cargo/bitcode_derive@0.6.0-alpha.1
+- pkg:cargo/bitcode_derive@0.6.0-beta.1
+- pkg:cargo/bitcode_derive@0.6.0
+- pkg:cargo/bitcode_derive@0.6.2
+- pkg:cargo/bitcode_derive@0.6.3
+- pkg:cargo/bitcode_derive@0.6.4
+- pkg:cargo/bitcode_derive@0.6.5
+- pkg:cargo/bitcode_derive@0.6.7

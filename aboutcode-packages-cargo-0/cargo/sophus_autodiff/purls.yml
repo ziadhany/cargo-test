@@ -1,0 +1,5 @@
+- pkg:cargo/sophus_autodiff@0.11.0
+- pkg:cargo/sophus_autodiff@0.12.0
+- pkg:cargo/sophus_autodiff@0.13.0
+- pkg:cargo/sophus_autodiff@0.14.0
+- pkg:cargo/sophus_autodiff@0.15.0

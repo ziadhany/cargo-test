@@ -1,0 +1,10 @@
+- pkg:cargo/fortanix-sgx-abi@0.1.0-rc1
+- pkg:cargo/fortanix-sgx-abi@0.3.0
+- pkg:cargo/fortanix-sgx-abi@0.3.1
+- pkg:cargo/fortanix-sgx-abi@0.3.2
+- pkg:cargo/fortanix-sgx-abi@0.3.3
+- pkg:cargo/fortanix-sgx-abi@0.4.0
+- pkg:cargo/fortanix-sgx-abi@0.4.1
+- pkg:cargo/fortanix-sgx-abi@0.5.0
+- pkg:cargo/fortanix-sgx-abi@0.6.0
+- pkg:cargo/fortanix-sgx-abi@0.6.1

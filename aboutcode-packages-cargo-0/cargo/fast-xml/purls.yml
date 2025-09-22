@@ -1,0 +1,4 @@
+- pkg:cargo/fast-xml@0.22.0
+- pkg:cargo/fast-xml@0.23.0-alpha3
+- pkg:cargo/fast-xml@0.23.0
+- pkg:cargo/fast-xml@0.23.1
